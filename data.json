@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "title": "Main Theme",
+        "duration": "03:45",
+        "genre": "Orchestral",
+        "game": "The Legend of Zelda: Ocarina of Time",
+        "composer": "Koji Kondo",
+        "link": "https:\/\/youtu.be\/xY8U9byTrzI?si=NhXvYL60YxBppqBt",
+        "description": "Tema principal icônico da série Zelda."
+    },
+    {
+        "id": "2",
+        "title": "Still Alive",
+        "duration": "04:14",
+        "genre": "Electronic",
+        "game": "Portal",
+        "composer": "Jonathan Coulton",
+        "link": "https:\/\/youtu.be\/SXRteMSSZ14?si=1zB8Y_TezFc94kGi",
+        "description": "Canção final divertida e memorável de Portal."
+    },
+    {
+        "id": "3",
+        "title": "Baba Yetu",
+        "duration": "03:35",
+        "genre": "World",
+        "game": "Civilization IV",
+        "composer": "Christopher Tin",
+        "link": "https:\/\/youtu.be\/IJiHDmyhE1A?si=Ks-499O_HP4PWzoR",
+        "description": "Tema vencedor do Grammy com influências africanas."
+    },
+    {
+        "id": "4",
+        "title": "Snake Eater",
+        "duration": "05:00",
+        "genre": "Rock",
+        "game": "Metal Gear Solid 3",
+        "composer": "Cynthia Harrell",
+        "link": "https:\/\/youtu.be\/roqkaqOuNZE?si=9d2IytQZNCHvvQwy",
+        "description": "Tema de encerramento cheio de emoção e rock."
+    },
+    {
+        "id": "5",
+        "title": "Geralt of Rivia",
+        "duration": "04:22",
+        "genre": "Folk",
+        "game": "The Witcher 3",
+        "composer": "Marcin Przybyłowicz",
+        "link": "https:\/\/youtu.be\/z4E-UpsBJ_8?si=bTDB57YPSaWQhxPm",
+        "description": "Tema principal da saga do bruxo Geralt."
+    },
+    {
+        "id": "6",
+        "title": "Hollow Knight Theme",
+        "duration": "03:55",
+        "genre": "Atmospheric",
+        "game": "Hollow Knight",
+        "composer": "Christopher Larkin",
+        "link": "https:\/\/youtu.be\/r6PuACnHkNY?si=dRgaZUznnzXQddg7",
+        "description": "Música atmosférica que reflete o mundo sombrio do jogo."
+    },
+    {
+        "id": "7",
+        "title": "One Winged Angel",
+        "duration": "07:00",
+        "genre": "Orchestral",
+        "game": "Final Fantasy VII",
+        "composer": "Nobuo Uematsu",
+        "link": "https:\/\/youtu.be\/mYdf0yqK_Fc?si=8XyjQIBEtwzSojto",
+        "description": "Tema épico do vilão Sephiroth."
+    },
+    {
+        "id": "8",
+        "title": "Mega Man 2 - Dr. Wily Stage 1",
+        "duration": "02:45",
+        "genre": "8-bit",
+        "game": "Mega Man 2",
+        "composer": "Takashi Tateishi",
+        "link": "https:\/\/youtu.be\/rYKw4Ejj6Eo?si=wMrdGKQyQF9YS3eb",
+        "description": "Tema clássico do primeiro estágio do Dr. Wily."
+    },
+    {
+        "id": "9",
+        "title": "Celeste - First Steps",
+        "duration": "02:20",
+        "genre": "Chiptune",
+        "game": "Celeste",
+        "composer": "Lena Raine",
+        "link": "https:\/\/youtu.be\/N8OHSXvneOE?si=hIdY1JPdttnezRrb",
+        "description": "Tema inspirador que introduz o jogador ao desafio."
+    },
+    {
+        "id": "10",
+        "title": "Shovel Knight - Strike the Earth!",
+        "duration": "02:30",
+        "genre": "Chiptune",
+        "game": "Shovel Knight",
+        "composer": "Jake Kaufman",
+        "link": "https:\/\/youtu.be\/yiMDhLMtrPs?si=qZZ042wVQUAJO6Ib",
+        "description": "Tema principal do jogo, vibrante e energético."
+    }
+]
